@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+
+.transaction-credit{
+  color: green;
+}
+
+.transaction-debit{
+  color: red;
+}
+
+table {
+  margin: auto;
+}
+
+caption {
+  padding-top: 10px;
+}
+
+th {
+  padding: 20px;
+}
+
+td {
+  text-align: center;
+  padding-right: 20px;
+}
